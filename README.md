@@ -22,3 +22,9 @@ pip install dailyprogrammer
 > dp easy
 
 ```
+
+
+## Todo
+
+- better search query (the current one searches all numbers on the title)
+- bypass reddit 100 posts limit on the api
