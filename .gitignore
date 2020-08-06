@@ -125,3 +125,7 @@ dmypy.json
 .pyre/
 
 testing.txt
+
+sonar-project.properties
+
+.scannerwork/
